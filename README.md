@@ -1,2 +1,2 @@
 # OCTANET_SEPTEMBER
-These
+These are the all tasks that i submited in my Octanet Internship.
